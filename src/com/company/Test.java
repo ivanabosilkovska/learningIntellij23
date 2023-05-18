@@ -7,6 +7,7 @@ public class Test {
         System.out.println("Hello world!!!");
         sayHello("Ana");
         sayGoodBye("Elena");
+        System.out.println("Learning Git");
     }
 
     private int age = 9;
