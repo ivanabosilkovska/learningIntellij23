@@ -10,6 +10,7 @@ public class Test {
         System.out.println("Learning Git");
         System.out.println("adding commits using Intellij");
         System.out.println("Sanja");
+        System.out.println("test revert");
     }
 
     private int a = 40;
