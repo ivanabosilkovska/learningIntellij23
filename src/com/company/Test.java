@@ -12,6 +12,8 @@ public class Test {
         System.out.println("Sanja");
     }
 
+    private int a = 40;
+
     private int age = 9;
 
     public static void sayHello(String name){
