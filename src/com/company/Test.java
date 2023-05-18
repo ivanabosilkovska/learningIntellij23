@@ -8,6 +8,7 @@ public class Test {
         sayHello("Ana");
         sayGoodBye("Elena");
         System.out.println("Learning Git");
+        System.out.println("adding commits using Intellij");
     }
 
     private int age = 9;
