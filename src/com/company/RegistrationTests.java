@@ -6,5 +6,6 @@ public class RegistrationTests {
         //adding your automation tests
 
         System.out.println("added first positive test");
+        System.out.println("test");
     }
 }
