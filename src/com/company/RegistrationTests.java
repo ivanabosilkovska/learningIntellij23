@@ -7,6 +7,7 @@ public class RegistrationTests {
 
         System.out.println("added first positive test");
         System.out.println("test");
+        System.out.println("git gui");
 
         System.out.println("added last test");
     }
