@@ -11,6 +11,7 @@ public class Test {
         System.out.println("adding commits using Intellij");
         System.out.println("Sanja");
         System.out.println("test revert");
+        System.out.println("learning git commands");
     }
 
     private int a = 40;
